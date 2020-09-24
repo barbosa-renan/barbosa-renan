@@ -6,7 +6,6 @@
 - 🌱 Sempre estudando sobre Arquitetura de Software, Testes, Design Patterns e boas práticas de programação
 - 👯 Buscando contribuir com outros desenvolvedores, comunidades e criadores de conteúdo
 - 🥅 2020 Goals: Contribuir com projetos Open Source e publicar meus artigos
-- ⚡ Fun fact: Gosto de correr com meu cão, passar o tempo com família e treinar alguns algorítmos
 
 ### Redes Sociais
 
