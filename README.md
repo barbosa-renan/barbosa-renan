@@ -1,4 +1,4 @@
-### Olá, Eu sou o Renan Barbosa 👋
+### Olá, Eu sou o Renan 👋
 
 ## Sou Desenvolvedor Web em .NET, Mobile em Xamarin e entusiasta de Data Visualization com [D3.js][d3js]!
 
