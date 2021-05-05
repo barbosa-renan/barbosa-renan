@@ -1,16 +1,10 @@
-### Olá, Eu sou o Renan 👋
+### Hey all, I'm Renan 👋
 
-## Sou Desenvolvedor Web em .NET  e Mobile em Xamarin!
+- 💻 I'm working at [avanade.com](https://avanade.com) as .NET Consultant
 
-- 🌱 Sempre estudando sobre Arquitetura de Software, Testes, Design Patterns e boas práticas de programação
-- 👯 Buscando contribuir com outros desenvolvedores, comunidades e criadores de conteúdo
+### Follow me on my social networks
 
-### Redes Sociais
-
-[<img align="left" alt="github.com/barbosa-renan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
-[<img align="left" alt="rbarbosa28 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="barbosarenan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[github]: https://github.com/barbosa-renan
-[twitter]: https://twitter.com/rbarbosa28
-[linkedin]: https://www.linkedin.com/in/barbosarenan/
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/barbosa-renan)](https://github.com/barbosa-renan)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbosarenan/)](https://www.linkedin.com/in/barbosarenan/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/eduardopiresbr/)](https://www.instagram.com/eduardopiresbr/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/eduardopiresbr)](https://twitter.com/rbarbosa28)
