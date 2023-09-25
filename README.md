@@ -1,6 +1,6 @@
 ### Hey all, I'm Renan 👋
 
-- 💻 I'm working at [avanade.com](https://avanade.com) as .NET Consultant
+- 💻 I'm working at [avanade.com](https://avanade.com) as Senior Consultant - Tech Architect
 
 ### Follow me on my social networks
 
