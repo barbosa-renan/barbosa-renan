@@ -4,6 +4,8 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=barbosa-renan&style=flat-square&color=blue)](https://github.com/barbosa-renan)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/barbosarenan/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/barbosarenan/) 
+[![StackOverflow](https://img.shields.io/badge/Stackoverflow-lightgrey?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/1663657/renan-barbosa)
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -19,23 +21,56 @@ I enjoy leading multidisciplinary teams, modernizing legacy applications, and bu
 
 ---
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=barbosa-renan&theme=merko&custom_title=My%20Contributions%20Over%20the%20Past%20Month%20📊&hide_border=true&point=FFFFFF&days=46&v=1)](https://github.com/barbosa-renan)
+
+
+---
+
+## 🏆 Certifications
+
+<div>
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="assets/azure/ai900.png" alt="AI-900 - Azure AI Fundamentals" />
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="assets/azure/az900.png" alt="AZ-900 - Azure AZ Fundamentals" />
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="assets/azure/az-204.svg" alt="AZ-204 - Azure Developer Associate" />  
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="assets/github/github-actions.png" alt="Github Actions" />  
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="assets/github/github-foundations.png" alt="Github Foundations" />  
+  <img height="100" style="max-width: 150px; object-fit: contain;" src="assets/linux/LFC131.png" alt="Green Software for Practitioners LFC131" />    
+</div>
+
 ## 🛠️ Tech Stack  
-
-### Languages  
-- **C#** · **.NET** · **Java (17+)** · **Kotlin** · **JavaScript/TypeScript** · **Python** · **SQL/NoSQL**  
-
-### Frameworks & Libraries  
-- **Spring Boot** · **Angular / AngularJS** · **ASP.NET Core** · **LangChain** · **CrewAI**  
-
-### Cloud & DevOps  
-- **Microsoft Azure** · **AWS** 
-- **Docker** · **Kubernetes** · **CI/CD Pipelines**  
-
-### Databases  
-- **MySQL** · **PostgreSQL** · **SQL Server** · **Redis** · **CosmosDB** · **DynamoDB** · **NoSQL (general experience)**  
-
-### Tools & Platforms  
-- **IntelliJ IDEA** · **VS Code** · **Git/Bitbucket** · **SonarQube** · **Android Studio** · **Orange** ·
+<div style="display: inline_block"><br>
+    <!-- Languages -->
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />    
+    <!-- Frameworks & Libraries -->
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />    
+    <!-- Databases -->
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />    
+    <!-- Cloud & DevOps -->
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />    
+    <!-- Tools -->
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+    <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" />
+</div>
 
 ---
 
