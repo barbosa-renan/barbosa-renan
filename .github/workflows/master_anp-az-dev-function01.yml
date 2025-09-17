@@ -6,7 +6,7 @@ name: Build and deploy dotnet core app to Azure Function App - anp-az-dev-functi
 on:
   push:
     branches:
-      - master
+      - main
   workflow_dispatch:
 
 env:
@@ -49,4 +49,5 @@ jobs:
           app-name: 'anp-az-dev-function01'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
+
           
